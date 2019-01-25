@@ -1,0 +1,3 @@
+[submodule "synthex"]
+	path = synthex
+	url = https://github.com/braindeaf/synthex
